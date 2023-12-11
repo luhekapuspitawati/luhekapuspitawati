@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luhekapuspitawati
-- 👀 I’m interested in IDK
-- 🌱 I’m currently learning Wordpress
-- 💞️ I’m looking to collaborate on --
+- 👀 I’m interested in Everything and make me confuse but i curious about backend service
+- 🌱 I’m currently learning Backend and DevOps
+- 💞️ I’m looking to collaborate on Backend
 - 📫 How to reach me Discord
 
 <!---
