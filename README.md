@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @luhekapuspitawati
-- 👀 I’m interested in Everything and make me confuse but i curious about backend service
-- 🌱 I’m currently learning Backend and DevOps
-- 💞️ I’m looking to collaborate on Backend
-- 📫 How to reach me Discord
+- 👀 I’m interested in Everything and make me confuse about what i do first, but i am curious about backend service
+- 🌱 I’m currently learning Python for Backend and DevOps
+- 💞️ I’m looking to collaborate on python learner
+- 📫 You can reach me on Discord, 
 
 <!---
 luhekapuspitawati/luhekapuspitawati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
